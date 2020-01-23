@@ -1,0 +1,1 @@
+packer build -force -var-file='vars.json' server2019_core.json
